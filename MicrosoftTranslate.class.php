@@ -1,5 +1,6 @@
 <?php
-include 'vendor/autoload.php';
+
+namespace samrand\MicrosoftTranslatePHP;
 
 class MicrosoftTranslate {
 
