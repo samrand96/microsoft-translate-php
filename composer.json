@@ -1,7 +1,6 @@
 {
   "name": "samrandhaji/microsoft-translate-php",
   "description": "A class to make it easy to communicate with Microsoft Translate API using PHP with Guzzle HTTP",
-  "type": "library",
   "require": {
     "php": ">=7.4",
     "guzzlehttp/guzzle": "^7.0"
@@ -12,5 +11,6 @@
       "name": "Samrand Haji",
       "email": "samrand96@gmail.com"
     }
-  ]
+  ],
+  "minimum-stability": "dev",
 }
