@@ -3,7 +3,8 @@
   "description": "A class to make it easy to communicate with Microsoft Translate API using PHP with Guzzle HTTP",
   "type": "library",
   "require": {
-    "php": ">=5.3.0"
+    "php": ">=7.4",
+     "guzzlehttp/guzzle": "^7.0"
   },
   "license": "proprietary",
   "authors": [
@@ -12,8 +13,5 @@
       "email": "samrand96@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
-  "require": {
-      "guzzlehttp/guzzle": "^7.0"
-  }
+  "minimum-stability": "dev"
 }
