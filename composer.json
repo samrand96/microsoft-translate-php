@@ -4,7 +4,7 @@
   "type": "library",
   "require": {
     "php": ">=7.4",
-     "guzzlehttp/guzzle": "^7.0"
+    "guzzlehttp/guzzle": "^7.0"
   },
   "license": "proprietary",
   "authors": [
@@ -12,6 +12,5 @@
       "name": "Samrand Haji",
       "email": "samrand96@gmail.com"
     }
-  ],
-  "minimum-stability": "dev"
+  ]
 }
